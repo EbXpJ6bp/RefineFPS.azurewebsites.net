@@ -1,0 +1,26 @@
+﻿body {
+	font-family: 'Muli',sans-serif;
+	position: absolute;
+	top: 23%;
+	width: 100%;
+	margin: 0 auto;
+	text-align: center;
+	color: rgb(102, 102, 102);
+	background-color: rgb(245, 245, 245);
+}
+
+h1 {
+	font-size: 50px;
+}
+
+footer {
+	margin-top: 20px;
+}
+
+small {
+	font-size: 14px;
+}
+
+	small a {
+		color: rgb(41, 171, 226);
+	}
